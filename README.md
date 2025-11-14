@@ -1,11 +1,16 @@
 # 🚀 Project Overview  
 The repository contains the solutions and the notebooks our team developed for the Kaggle Competition [FDS Pokémon Battles Prediction 2025] (https://www.kaggle.com/competitions/fds-pokemon-battles-prediction-2025). The goal is to predict who wins the Pokemon Battle (Gen 1), based on the dataset '.jsonl'. The dataset includes informations such as the first player's team details, the second player's lead details and the battle timeline.
 
+## Team Members
+gianlucapasquinelli03
+marcores03
+Gabriele-mp
+
 ## 🔧 Models
 The repository contains the 3 best models we have built to solve the problem.
 
-### 1. Model:
-### 2. Model:
+### 1. Model: 
+### 2. Model: Ensemble with Logistic Regression and XGBoost
 ### 3. Model:
 
 ## 🛠️ Pipeline
