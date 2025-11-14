@@ -11,7 +11,7 @@ The repository contains the 3 best models we have built to solve the problem.
 
 ### 1. Model: 
 ### 2. Model: Ensemble with Logistic Regression and XGBoost  
-It's an ensemble between Logistic Regression and XGBoost. Different models were tested for the final ensemble, e.g. Random Forest, Cat Boost, KNN, and different combination of these. Techniques such as Individual Performance, Prediction Correlation, Backward Elimination and Forward Selection were used.
+It's an ensemble between Logistic Regression and XGBoost. Different models were tested for the final ensemble, e.g. Random Forest, Cat Boost, KNN, and different combination of these. Techniques such as Individual Performance, Prediction Correlation, Backward Elimination and Forward Selection were used to choose the best combination.
 ### 3. Model:
 
 ## 🛠️ Pipeline
